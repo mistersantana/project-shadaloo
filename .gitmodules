@@ -1,0 +1,12 @@
+[submodule "learning-lab"]
+	path = learning-lab
+	url = https://github.com/mistersantana/learning-lab.git
+	branch = main
+[submodule "learning-showcase"]
+	path = learning-showcase
+	url = https://github.com/mistersantana/learning-showcase.git
+	branch = main
+[submodule "_shadowrealm"]
+	path = _shadowrealm
+	url = https://github.com/mistersantana/_shadowrealm.git
+	branch = main
