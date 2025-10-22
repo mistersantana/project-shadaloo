@@ -10,11 +10,3 @@
 	path = _shadowrealm
 	url = https://github.com/mistersantana/_shadowrealm.git
 	branch = main
-[submodule "codecademy-fullstack-bootcamp"]
-	path = codecademy-fullstack-bootcamp
-	url = https://github.com/mistersantana/codecademy-fullstack-bootcamp.git
-	branch = main
-[submodule "codecademy-fullstack-bootcamp-SUBMISSIONS"]
-	path = codecademy-fullstack-bootcamp-SUBMISSIONS
-	url = git@github.com:mistersantana/codecademy-fullstack-bootcamp-SUBMISSIONS.git
-	branch = main
